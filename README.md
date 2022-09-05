@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PattiyaY
+- 👋 Hi, I’m Pattiya Yiadram
 - 👀 I’m interested in Backend developer
 - 🌱 I’m currently learning Python,Html,Css
 - 📫 How to reach me Email : Pattiya.2547@icloud.com
