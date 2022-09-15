@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pattiya Yiadram
 - 👀 I’m interested in Backend developer
-- 🌱 I’m currently learning Python,Html,Css
+- 🌱 I’m currently learning Python,HTML,CSS and i know basic C language.
 - 📫 How to reach me Email : Pattiya.2547@icloud.com
                      
 
