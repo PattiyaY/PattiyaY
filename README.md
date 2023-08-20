@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pattiya Yiadram or TK.
 - 👀 I’m interested in Backend developer.
-- 🌱 I’m currently learning Java and i've experience with HTML, CSS, Java, C and Python.
+- 🌱 I've experience with HTML, CSS, Java, JS, C and Python.
 - 📫 How to reach me Email : Pattiya.work@gmail.com
                      
 
