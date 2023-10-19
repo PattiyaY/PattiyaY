@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pattiya Yiadram</h1>
+<h1 align="center">Hi 👋, I'm TK</h1>
 <h3 align="center">A computer science student who live in Thailand :)</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
