@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://pattiyay.github.io/Resume/](https://pattiyay.github.io/Resume/)
 
-- ⚡ Fun fact **GYM GIRL💪🏻**
+- ⚡ Fun fact **I'm GYM GIRL💪🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
