@@ -14,7 +14,7 @@
 <a href="https://codepen.io/pattiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pattiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pattiya yiadram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pattiya yiadram" height="30" width="40" /></a>
 <a href="https://instagram.com/tonkhawx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonkhawx" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/tk lifestyle](https://youtube.com/@Pattiya_TK?si=OXNA35VyIihC1TrN)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tk lifestyle" height="30" width="40" /></a>
+<a href="https://youtube.com/@Pattiya_TK?si=OXNA35VyIihC1TrN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tk lifestyle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pattiyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pattiyay" height="30" width="40" /></a>
 </p>
 
