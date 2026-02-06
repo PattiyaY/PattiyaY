@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TK</h1>
-<h3 align="center">A DevOps Enjineer who live in Thailand :)</h3>
+<h3 align="center">A DevOps Engineer who live in Thailand :)</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development and Devops** 
 
